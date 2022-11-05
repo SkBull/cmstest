@@ -1,6 +1,6 @@
 ---
 title: 'test'
-status: 'draft'
+status: 'published'
 author:
   name: 'SkBull'
   picture: 'https://avatars.githubusercontent.com/u/31233236?v=4'
